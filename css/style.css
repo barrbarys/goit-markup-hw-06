@@ -752,6 +752,7 @@ ul {
 
 .footer-socials .tittle,
 .subscribe-title {
+	display: block;
 	margin-top: 0;
 	margin-bottom: 20px;
 	font-weight: 700;
@@ -1019,6 +1020,7 @@ ul {
 .email-subscribe {
 	display: flex;
 	justify-content: center;
+	gap: 12px;
 
 }
 
